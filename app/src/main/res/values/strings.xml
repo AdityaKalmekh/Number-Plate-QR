@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Scanning_app</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="signuphere">signuphere</string>
+    <string name="signup">singnup</string>
+    <string name="fullname">fullname</string>
+    <string name="email">email</string>
+    <string name="loginhere">loginhere</string>
+    <string name="title_activity_item_screen">item_screen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No</string>
+
+    <string-array name="codes">
+        <item>GJ-01</item>
+        <item>GJ-02</item>
+        <item>GJ-03</item>
+        <item>GJ-04</item>
+        <item>GJ-05</item>
+        <item>GJ-06</item>
+        <item>GJ-07</item>
+        <item>GJ-08</item>
+        <item>GJ-09</item>
+        <item>GJ-10</item>
+        <item>GJ-11</item>
+        <item>GJ-12</item>
+        <item>GJ-13</item>
+        <item>GJ-14</item>
+        <item>GJ-15</item>
+        <item>GJ-16</item>
+        <item>GJ-17</item>
+        <item>GJ-18</item>
+        <item>GJ-19</item>
+        <item>GJ-20</item>
+        <item>GJ-21</item>
+        <item>GJ-22</item>
+        <item>GJ-23</item>
+        <item>GJ-24</item>
+        <item>GJ-25</item>
+        <item>GJ-26</item>
+        <item>GJ-27</item>
+        <item>GJ-30</item>
+        <item>GJ-31</item>
+        <item>GJ-32</item>
+        <item>GJ-33</item>
+        <item>GJ-34</item>
+        <item>GJ-35</item>
+        <item>GJ-36</item>
+        <item>GJ-37</item>
+        <item>GJ-38</item>
+    </string-array>
+    <string name="title_activity_admin_main">Admin_main</string>
+    <string name="title_activity_update_data">UpdateData</string>
+    <string name="create_a_new_account_signup">Create a new account?Signup</string>
+    <string name="Login">Login</string>
+</resources>
